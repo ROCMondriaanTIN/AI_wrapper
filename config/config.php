@@ -1,3 +1,4 @@
 <?php
 // Configuratiebestand voor API-instellingen
-define('API_KEY', 'YOUR_API_KEY');
+define('API_KEY', 'your_api_Key');
+// define('OPENAI_API_KEY', 'sk-xxxxxxxxxxxxxxxxxxxxxxxx');
